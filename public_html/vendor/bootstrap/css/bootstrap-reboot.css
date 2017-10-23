@@ -168,6 +168,8 @@ figure {
 }
 
 img {
+  width: 900px;
+  height: 350px;
   vertical-align: middle;
   border-style: none;
 }
